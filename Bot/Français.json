@@ -1,0 +1,10 @@
+{
+    "Language_Choice_Title": "Choisissez le language pour ce serveur !",
+    "Language_Choice_1_0Field": "<:France:634795206721536010>",
+    "Language_Choice_1_5Field": "Pour choisir le Français !",
+    "Language_Choice_2_0Field": "<:Angleterre:634795919274934292>",
+    "Language_Choice_2_5Field": "Pour choisir l'anglais !",
+    "Language_Choice_Valid": "La langue à bien était mit en français sur cette guild !",
+    "Language_Choice_NotPermission": "Vous n'avez pas la permission d'utiliser cette commande !",
+    "Language_Choice_NotDM": "Cette commande est désactivé en MPs !"
+}

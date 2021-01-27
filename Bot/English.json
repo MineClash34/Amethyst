@@ -1,0 +1,10 @@
+{
+    "Language_Choice_Title": "Choose langage for this guild !",
+    "Language_Choice_1_0Field": "<:France:634795206721536010>",
+    "Language_Choice_1_5Field": "To choose French !",
+    "Language_Choice_2_0Field": "<:Angleterre:634795919274934292>",
+    "Language_Choice_2_5Field": "To choose English !",
+    "Language_Choice_Valid": "Langage succesfuly set to english for this guild !",
+    "Language_Choice_NotPermission": "You don't have required permissions !",
+    "Language_Choice_NotDM": "This command is disable in PMs !"
+}
